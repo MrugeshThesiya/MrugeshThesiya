@@ -39,8 +39,8 @@ CGPA: 9.44 · July 2023 – Present
 
 ## Get in Touch
 
-[![Email](https://img.shields.io/badge/email-thesiyamrugesh@gmail.com-2b2b2b?style=flat-square&logo=gmail&logoColor=white)](mailto:thesiyamrugesh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrugeshthesiya-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrugeshthesiya/)
-[![GitHub](https://img.shields.io/badge/GitHub-MrugeshThesiya-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrugeshThesiya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrugesh--thesiya--portfolio-111?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MrugeshThesiya/mrugesh-thesiya-portfolio)
-[![Phone](https://img.shields.io/badge/phone-%2B91-7567164025-2b2b2b?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917567164025)
+- **Email** — [thesiyamrugesh@gmail.com](mailto:thesiyamrugesh@gmail.com)
+- **Phone** — [+91-7567164025](tel:+917567164025)
+- **LinkedIn** — [linkedin.com/in/mrugeshthesiya](https://www.linkedin.com/in/mrugeshthesiya/)
+- **GitHub** — [github.com/MrugeshThesiya](https://github.com/MrugeshThesiya)
+- **Portfolio** — [mrugesh.codekalakaars.com](https://mrugesh.codekalakaars.com)
